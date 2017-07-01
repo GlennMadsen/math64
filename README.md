@@ -1,0 +1,1 @@
+A work in progress 3d math library, mostly for personal learning purposes. If you're looking for a stable 3d math library written in go please check out [MathGL](https://github.com/go-gl/mathgl).
