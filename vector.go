@@ -2,7 +2,6 @@ package math64
 
 import (
 	"math"
-	"strconv"
 )
 
 type Vector struct {
